@@ -3,10 +3,21 @@
   text-align: center;
   margin: auto;
 }
+#roll {
+  margin-top: 10px;
+  height: 75px;
+  width: 100px;
+  background-color: inherit;
+  font-family: "indie flower", cursive;
+  font-size: 2rem;
+}
 .dicee{
 margin: auto;
 text-align: center;
 display: inline-block;
+}
+button {
+  border-radius: 15px;
 }
 body{
 background-color: #393E46;
@@ -19,7 +30,7 @@ h1 {
   color: #4ECCA3;
 }
 img{
-  width: 80%;
+  width: 100%;
 }
 p{
   font-size: 2rem;
